@@ -1,5 +1,5 @@
 web: bash startup
-web: bash pip3 install requests
+web: bash pip install -U pip
 web: bash startup
 
 
