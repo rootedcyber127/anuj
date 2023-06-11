@@ -1,2 +1,3 @@
+web: bash bin/startup
 
-worker: python3 main.py
+
