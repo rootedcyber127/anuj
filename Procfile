@@ -1,4 +1,4 @@
-web: bash startup
+web: bash pip install --upgrade pip
 
 
 
