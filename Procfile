@@ -1,1 +1,2 @@
-scalingo --app my-app scale worker:3:2XL
+
+worker: python3 main.py
